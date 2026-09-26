@@ -1,0 +1,12 @@
+python=3.12
+hashicorp/vault=1.21
+python:3.12-slim
+tla2tools=provided by TLA_JAR when available
+
+
+latest_bench=results/20260926T060714Z-reference
+zero_trust_agent_benchmark_dataset=zero-trust-agent-benchmark-dataset-v4
+zero_trust_agent_benchmark_test_traces_sha256=4f6fff41fe77aefb2ec96336b65a58d571986e0036ac3e368cc9975ed029dfc7
+tlc_generated_states=1210884
+tlc_distinct_states=686356
+tlc_depth=20

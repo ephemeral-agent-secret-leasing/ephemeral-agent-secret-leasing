@@ -1,0 +1,2 @@
+trial,timestamp_utc,traces,blocked_attacks,false_positives,leak_count,p95_ms,p99_ms
+1,2026-09-26T06:06:39Z,500,131,2,0,0.177940013236366,0.450291993911378
