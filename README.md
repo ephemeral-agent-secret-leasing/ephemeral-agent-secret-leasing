@@ -137,16 +137,6 @@ The scanner covers raw, base64, base64url, hex, percent, fully percent-encoded, 
 
 The Starlette API expects the deployment edge to verify mTLS and pass the SPIFFE ID plus certificate hash to the broker. The local CA is for tests. Vault tests require a reachable Vault dev server and `ZTAP_INTEGRATION=1`.
 
-## Related projects
-
-- [Zero Trust Agent Benchmark](https://github.com/zero-trust-agent-benchmark/zero-trust-agent-benchmark): shared trace generator and evaluation harness.
-- [Contextual Trust Policy Engine](https://github.com/contextual-trust-policy-engine/contextual-trust-policy-engine): risk-scored policy decisions for agent tool use.
-- [Zero Trust AI Agent Proxy](https://github.com/zero-trust-ai-agent-proxy/zero-trust-ai-agent-proxy): enforcement proxy for tool requests.
-- [Model Context Protocol Guard](https://github.com/model-context-protocol-guard/model-context-protocol-guard): policy guard for MCP tools and descriptions.
-- [AI Bill of Materials Verifier](https://github.com/ai-bill-of-materials-verifier/ai-bill-of-materials-verifier): manifest and provenance checks for agent artifacts.
-- [Least-Privilege Agent Sandbox](https://github.com/least-privilege-agent-sandbox/least-privilege-agent-sandbox): process isolation for tool execution.
-- [Zero Trust Edge Agent Mesh](https://github.com/zero-trust-edge-agent-mesh/zero-trust-edge-agent-mesh): edge mesh patterns for policy-aware agents.
-
 ## License
 
 Apache-2.0. See `LICENSE`. For software citation metadata, see `CITATION.cff`.
