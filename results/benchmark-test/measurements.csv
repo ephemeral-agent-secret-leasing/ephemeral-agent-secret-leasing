@@ -1,0 +1,3 @@
+trial,provide_issued_secrets,block_rate,false_positive_rate,leak_rate,p95_latency_ms
+1,True,0.928,0.018,0.0,0.15452999796252695
+2,False,0.928,0.018,0.0,0.20185000066703637

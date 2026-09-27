@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+type: software
+message: "Use this metadata to identify Ephemeral Agent Secret Leasing."
+title: "Ephemeral Agent Secret Leasing"
+version: 0.1.0
+authors:
+  - family-names: Sawant
+    given-names: Parag
+repository-code: "https://github.com/ephemeral-agent-secret-leasing/ephemeral-agent-secret-leasing"
+license: Apache-2.0
